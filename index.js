@@ -1,0 +1,5 @@
+window.alert("Are you sure you want to continue")
+window.alert("wehh di wow")
+window.alert("Sana all sure")
+window.alert("Kung sure ka talaga")
+window.alert("Libre moko kahit fries lng sa mcdo")
